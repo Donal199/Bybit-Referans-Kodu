@@ -19,7 +19,7 @@
 </table>
 
 <h2>Bybit Referans Kodu Nedir?</h2>
-<p>Bir Bybit referans kodu (TOPTOP olarak da bilinir) (aynı zamanda Bybit promosyon kodu, Bybit davet kodu veya Bybit affiliate linki olarak da adlandırılır), yeni kullanıcıların Bybit'e kaydolurken girebileceği özel bir alfanümerik koddur. Bu, aşağıdaki özel avantajları sağlar:</p>
+<p>Bir Bybit referans kodu (62545 olarak da bilinir) (aynı zamanda Bybit promosyon kodu, Bybit davet kodu veya Bybit affiliate linki olarak da adlandırılır), yeni kullanıcıların Bybit'e kaydolurken girebileceği özel bir alfanümerik koddur. Bu, aşağıdaki özel avantajları sağlar:</p>
 <ul>
         <li>Yeni kullanıcılar için Bybit kayıt bonusu</li>
         <li>Bybit ticaret ödülleri programı ile indirilmiş ticaret ücretleri</li>
